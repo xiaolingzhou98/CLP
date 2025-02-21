@@ -86,7 +86,7 @@ python test.py
 For long-tail learning tasks:
 
 <p align="center">
-  <img src="img/LT1.jpg" width="85%" height="85%">
+  <img src="img/Lt1.jpg" width="85%" height="85%">
 </p>
 <p align="center">
   <img src="img/LT2.jpg" width="85%" height="85%">
