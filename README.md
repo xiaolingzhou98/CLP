@@ -16,7 +16,7 @@ Deep learning has seen widespread success in various domains such as science, in
 The overall structure of CLP, which consists of four main components: the metadata augmentation module, the backbone classifier, the training characteristics module, and the perturbation network which generates sample-wise logit perturbations. The red and green lines indicate the learning loops of the backbone classifier and the perturbation network, respectively.
 
 <p align="center">
-  <img src="img/frame.jpg" width="85%" height="85%">
+  <img src="img/framework.jpg" width="85%" height="85%">
 </p>
 
 ## Requirements
